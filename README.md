@@ -1,7 +1,9 @@
 # CI-CD-Deployment-for-Springboot-Application.
 CI/CD Deployment for Springboot Application.
+
 DESCRIPTION
 Project Objective:
+
 As a Full Stack Developer, you have to build a CI/CD pipeline to demonstrate continuous deployment and host the application on AWS EC2 instance.
 
 Background of the problem statement:
